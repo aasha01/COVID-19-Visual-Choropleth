@@ -21,4 +21,4 @@ plotly.graph_objs as go
     - https:/query.data.world/s/ydb5tncrsnsuh3tyzx5466o5hiacem
 
 ## Example Output:
-<img src="https://github.com/engineersportal/pylive/blob/master/random_live_example.gif"/>
+<img src="https://github.com/aasha01/COVID-19-Visual-Choropleth/blob/master/newplot.png"/>
