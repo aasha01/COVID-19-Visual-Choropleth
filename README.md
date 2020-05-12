@@ -3,9 +3,10 @@ COVID-19 data visualization with Choropleth Map.
   - Confirmed cases for all available counrties
 
 ## Packages Used for plotting
-chart_studio.plotly as py
-chart_studio.tools as tls
-plotly.graph_objs as go
+- chart_studio.plotly as py
+- chart_studio.tools as tls
+- plotly.graph_objs as go
+- plotly.express
   - plotly.plotly and plotly.tools returns brloe error as these packages were deprecated
     - ImportError: 
     - The plotly.plotly module is deprecated,
@@ -22,3 +23,4 @@ plotly.graph_objs as go
 
 ## Example Output:
 <img src="https://github.com/aasha01/COVID-19-Visual-Choropleth/blob/master/newplot.png"/>
+<img src="https://github.com/aasha01/COVID-19-Visual-Choropleth/blob/master/US_States.png"/>
