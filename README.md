@@ -3,11 +3,11 @@ COVID-19 data visualization with Choropleth Map.
   - Confirmed cases for all available counrties
 
 ## Packages Used for plotting
-- chart_studio.plotly as py
-- chart_studio.tools as tls
-- plotly.graph_objs as go
-- plotly.express
-  - plotly.plotly and plotly.tools returns brloe error as these packages were deprecated
+  - chart_studio.plotly as py
+  - chart_studio.tools as tls
+  - plotly.graph_objs as go
+  - plotly.express
+  - plotly.plotly and plotly.tools returns error as these packages were deprecated
     - ImportError: 
     - The plotly.plotly module is deprecated,
     - please install the chart-studio package and use the
